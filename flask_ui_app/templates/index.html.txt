@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><title>Script to Image</title></head>
+<body>
+  <h1>Script to Image (Anime Style)</h1>
+  <form method="post">
+    <textarea name="script" rows="6" cols="50" placeholder="Enter your scene description..."></textarea><br>
+    <button type="submit">Generate Image</button>
+  </form>
+</body>
+</html>
